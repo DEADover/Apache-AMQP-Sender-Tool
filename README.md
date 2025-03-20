@@ -60,4 +60,4 @@ A simple Python based GUI client for sending messages via AMQP protocol to **Apa
 
 2. **Run**:
    ```bash
-   python amqp_client.py
+   python apache_amqp_client_v1.py
