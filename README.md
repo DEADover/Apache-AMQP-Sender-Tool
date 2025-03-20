@@ -59,5 +59,6 @@ A simple Python based GUI client for sending messages via AMQP protocol to **Apa
    - `pip install python-qpid-proton tkinter`
 
 2. **Run**:
-   ```bash
-   python apache_amqp_client_v1.py
+   - `python apache_amqp_client_[version].py`
+   or
+   just download and run .exe for Windows {Python libs not required}
