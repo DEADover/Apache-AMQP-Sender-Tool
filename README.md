@@ -1,5 +1,7 @@
 # Apache ActiveMQ Classic + Artemis 2.x AMQP Sender Tool
 
+![image](https://github.com/user-attachments/assets/e3f649eb-94b5-4f0f-8207-dd4d5c88fec7)
+
 A simple Python based GUI client for sending messages via AMQP protocol to **Apache ActiveMQ Classic/Artemis 2.x** message brokers. Designed for testing and debugging message queues with support for text and file attachments.
 
 ---
