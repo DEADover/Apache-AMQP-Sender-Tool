@@ -1,3 +1,5 @@
+# Apache ActiveMQ Classic + Artemis 2.x AMQP Sender Tool 1.0
+
 import tkinter as tk
 from tkinter import ttk, scrolledtext, filedialog, messagebox
 from proton import Message
